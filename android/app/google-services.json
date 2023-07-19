@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238920412257",
+    "project_id": "tick-the-tasks",
+    "storage_bucket": "tick-the-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238920412257:android:5286aa29ebe41572a34e20",
+        "android_client_info": {
+          "package_name": "com.example.tick_the_tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238920412257-gvb3u6m5ejugo0dchperakgicgh8q2bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vsE4hUH3y5WIjp03BCzjE5NqizBWMXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238920412257-gvb3u6m5ejugo0dchperakgicgh8q2bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
